@@ -10,7 +10,7 @@ right-column:
   - 'GitHub: [https://github.com/kaesluder/](https://github.com/kaesluder/)'
   - 'Personal Site: [https://kaesluder.github.io/](https://kaesluder.github.io/)'
   - 'Last Updated: \today'
-...
+---
 
 # Summary
 
@@ -59,6 +59,6 @@ I hope to start a new career where I can combine my passion for computer program
 
 ## Indiana University, Bloomington
 
-*   Instructional Systems Technology, PhD; 2008.
+*   Instructional Systems Technology, PhD; 2010
 *   Instructional Systems Technology, M.S.; 1997
 
