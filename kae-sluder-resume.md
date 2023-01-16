@@ -14,13 +14,13 @@ right-column:
 
 # Summary
 
-I'm a Software Engineering Student at Ada Developers Academy starting 
-a second career in software engineering. My current areas of focus are 
-Python, Flask, Javascript, React, and HTML. My previous experience includes 
-12 years of eLearning development in higher education, managing home Linux 
-servers, and data analysis using Python. 
+I'm a Software Engineering Student at Ada Developers Academy starting
+a second career in software engineering. My current areas of focus are
+Python, Flask, Javascript, React, and HTML. My previous experience includes
+eLearning development in higher education, managing home Linux
+servers, and data analysis using Python.
 
-I hope to start a new career where I can combine my passion for computer programming with my focus on improving the lives of software users. 
+I hope to start a new career where I can combine my passion for computer programming with my focus on improving the lives of software users.
 
 # Work Experience
 
@@ -28,7 +28,7 @@ I hope to start a new career where I can combine my passion for computer program
 
 **August 2022 - present**; remote
 
-- Developed APIs using Python and Flask. 
+- Developed APIs using Python and Flask.
 - Collaborated on projects using pair programming, code reviews, and test-driven development.
 - Maintained development repositories in Git and GitHub.
 - Developed front-end interfaces using Javascript and React.
@@ -37,28 +37,26 @@ I hope to start a new career where I can combine my passion for computer program
 
 **March 2008 - November 2020**; on-site and remote, full-time
 
- - Developed fully online and hybrid courses using Blackboard and HTML. 
- - Performed final integration and deployment for courses.
- - Worked with instructors and department stakeholders to ensure that courses met quality and curriculum goals. 
- - Created scripts to assist with course maintenance. 
- - Communicated ideas for new tools and development through department meetings. 
+- Developed fully online and hybrid courses using Blackboard and HTML.
+- Performed final integration and deployment for courses.
+- Worked with instructors and department stakeholders to ensure that courses met quality and curriculum goals.
+- Created scripts to assist with course maintenance.
+- Communicated ideas for new tools and development through department meetings.
 
 # Volunteer Experience
 
-##  First City Pride Center, Savannah, GA -- Front Desk Volunteer
+## First City Pride Center, Savannah, GA -- Front Desk Volunteer
 
 **April 2019 – July 2022**
 
- - Connected walk-in visitors to services and information.
- - Facilitated hybrid and virtual support-group meetings
- - Planned and organized small-group programming and events.
- - Organized clothing swap to provide donated clothes to trans people in local community. 
-
+- Connected walk-in visitors to services and information.
+- Facilitated hybrid and virtual support-group meetings
+- Planned and organized small-group programming and events.
+- Organized clothing swap to provide donated clothes to trans people in local community.
 
 # Education
 
 ## Indiana University, Bloomington
 
-*   Instructional Systems Technology, PhD; 2010
-*   Instructional Systems Technology, M.S.; 1997
-
+- Instructional Systems Technology, PhD; 2010
+- Instructional Systems Technology, M.S.; 1997
