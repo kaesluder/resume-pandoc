@@ -6,12 +6,12 @@ left-column:
   - 'LinkedIn: [www.linkedin.com/in/kae-sluder](https://www.linkedin.com/in/kae-sluder/)'
 right-column:
   - 'Personal Site: [kaesluder.github.io](https://kaesluder.github.io/)'
-  - 'Pronouns: they/them'
 ---
 
 # Summary
 
-I'm a lifelong programming hobbyist newly transitioning into full-time software engineering. Previously, I designed eLearning courses.
+I'm a lifelong programming hobbyist newly transitioning into full-time
+software engineering. Previously, I designed eLearning courses.
 
 # Skills
 
@@ -24,20 +24,20 @@ I'm a lifelong programming hobbyist newly transitioning into full-time software 
 
 ## Amazon -- Software Engineering Intern
 
-**2023 - present:** remote
+**2023:** remote
 
-- Prototyped database service for 2-factor authentication with
-  expected delivery to millions of customers.
-- Deployed code to microservices framework using CI and continuous
-  testing frameworks targeting better than 99.9% reliability.
 - Developed APIs and wrapper libraries to connect multiple services to
   provide an easy 2-factor experience for customers.
+- Integrated prototype services into an authentication ecosystem 
+  that processes over 10 million requests per day.
+- Deployed code to microservices framework using CI and continuous
+  testing frameworks targeting better than 99.9% reliability.
 - Participated in code reviews and planning sessions for long-term
   feature rollout.
 
 ## Ada Developer's Academy -- Student Software Engineer
 
-**2022 - present:** remote
+**2022 - 2023:** remote
 
 - Developed APIs using Python and Flask.
 - Developed data-driven Single-Page Application front-ends using JavaScript and React.
