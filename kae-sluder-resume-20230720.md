@@ -10,15 +10,16 @@ right-column:
 
 # Summary
 
-I'm a lifelong programming hobbyist newly transitioning into full-time
-software engineering. Previously, I designed eLearning courses.
+Software development professional with skills in Java, Python, JavaScript, and a strong background in eLearning course design. Experienced in building robust APIs and microservices integration. Passionate about simplifying app development and improving reliability.
+
 
 # Skills
 
-- **Programming Languages:** Java, Python, JavaScript
-- **Service Development:** Flask, Node
+- **Programming Languages:** Python, Java, JavaScript
+- **Service Development:** Flask, Spring Boot
 - **Front-End Development:** HTML, CSS, JavaScript, React, Web Components
 - **Databases:** PostgreSQL, DynamoDB
+- **Version Control:** Git
 
 # Work Experience
 
