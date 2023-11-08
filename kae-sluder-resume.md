@@ -2,25 +2,26 @@
 name: Kae Job Sluder
 keywords: python, html5, javascript, sh, ksh, instructional design, full-stack development
 left-column:
-  - 'Software Engineering Student'
-  - 'Email: [kaesluder@fastmail.com](mailto:kaesluder@fastmail.com)'
-  - 'LinkedIn: [https://www.linkedin.com/in/kae-sluder/](https://www.linkedin.com/in/kae-sluder/)'
+  - 'Full-Stack Software Engineer'
+  - 'LinkedIn: [kae-sluder](https://www.linkedin.com/in/kae-sluder/)'
 right-column:
-  - 'Pronouns: they/them'
-  - 'GitHub: [https://github.com/kaesluder/](https://github.com/kaesluder/)'
-  - 'Personal Site: [https://kaesluder.github.io/](https://kaesluder.github.io/)'
-  - 'Last Updated: \today'
+  - 'GitHub: [kaesluder](https://github.com/kaesluder/)'
+languages: 'Python, Typescript, Java'
+job-title: 'Full-Stack Software Engineer'
 ---
 
 # Summary
 
-I'm a Software Engineering Student at Ada Developers Academy starting
-a second career in software engineering. My current areas of focus are
-Python, Flask, Javascript, React, and HTML. My previous experience includes
-eLearning development in higher education, managing home Linux
-servers, and data analysis using Python.
+{{job-title}}
 
 I hope to start a new career where I can combine my passion for computer programming with my focus on improving the lives of software users.
+
+# Skills
+
+- **Programming Languages:** {{languages}}
+- **Web Development:** AWS, React, HTML, CSS, Linux, Vite
+- **Databases:** PostgreSQL, DynamoDB, SQLite
+- **Version Control:** git
 
 # Work Experience
 
